@@ -1,0 +1,18 @@
+browser=webdriver.chrome.driver
+chromeDriver=D:\\crome driver\\New folder\\chromedriver.exe
+
+
+
+
+url = https://www.bigbasket.com/auth/login/
+signup_url = https://www.bigbasket.com/auth/signup/
+website = https://www.bigbasket.com/
+potatoUrl = https://www.bigbasket.com/pd/40048457/fresho-potato-new-crop-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop
+basketUrl = https://www.bigbasket.com/basket/
+
+id = 7448250654
+errorMsg = Your account is inactive. Please contact our customer care. Call: 1860-123-1000 or Email: customerservice@bigbasket.com.
+dashboardTitle = Online Grocery Shopping and Online Supermarket in India - bigbasket
+emptyBasketMsg = Your basket is empty. Start shopping now!
+
+noResultText = We are sorry, no results found.
